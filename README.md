@@ -7,7 +7,6 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 ![resim](kdlyrz.png)
 
 ## Installation
----
 Öncelikle Projeyi clonelayın
 ```
  git clone https://github.com/salihaxx/kodluyoruzilkrepo.git
